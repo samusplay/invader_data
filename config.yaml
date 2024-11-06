@@ -1,0 +1,3 @@
+kaggle:
+  dataset: "rahmasleam/bitcoin-price"
+data_path: "./data/bitcoin_data.csv"
