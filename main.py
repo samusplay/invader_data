@@ -47,12 +47,17 @@ def main():
         print("Gráfico de picos y valles completado.")
         advanced_analyzer.plot_volatility('Close')
         print("Gráfico de volatilidad avanzado completado.")
-        advanced_analyzer.plot_price_with_regression('Date', 'Close')
-        print("Gráfico de regresión lineal completado.")
 
     else:
         print("No se pudieron cargar los datos de Bitcoin.")
 
 if __name__ == "__main__":
     main()
+
+
+
+
+
+
+
 
